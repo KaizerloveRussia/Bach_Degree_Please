@@ -7,7 +7,7 @@ Model | Result
 ResNet-50 | :heavy_check_mark:
 RNN | :x:
 LSTM | :x:
-GRU | :heavy_check_mark:
+GRU | :x:
 Faster R-CNN | :x:
 Mask R-CNN | :x:
 YOLO8 | :heavy_check_mark:
