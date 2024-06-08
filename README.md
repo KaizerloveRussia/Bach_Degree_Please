@@ -1,7 +1,7 @@
 ## Repository structure
 ***
 ### Colab notebooks 
-Pick this folder whether you want to look through the code of the conversion experiment. The "+" or "-" symbols indicate the success or failure of the conversion, respectively. Below is a brief summary of the experiment results:
+Pick this folder whether you want to look through the code of the conversion experiment. The "+" or "-" symbols at the beginning of the .ipynb file indicate the success or failure of the conversion, respectively. Below is a brief summary of the experiment results:
 Model | Result
 :-----|:----:
 ResNet-50 | :heavy_check_mark:
